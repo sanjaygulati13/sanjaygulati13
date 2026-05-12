@@ -1,4 +1,9 @@
-## Hi there 👋
+### Sanjay Gulati
+
+Static analysis at silicon scale. AI agent systems on the side.
+
+San Francisco Bay Area · CA
+
 
 <!--
 **sanjaygulati13/sanjaygulati13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
